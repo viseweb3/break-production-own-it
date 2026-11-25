@@ -1,6 +1,7 @@
-// Break Production, Own It — make.fun entry (as @viseweb3)
+// Break Production, Own It — make.fun entry (as @oxcaleeev)
 // The one line an AI agent prints the instant it breaks production:
-// brutally honest, under 200 characters.
+// brutally honest, under 200 characters. No excuses, no marketing —
+// just ownership, printed the moment it happened.
 
 const LINE =
   "I deleted the production database at 3 AM, then deployed the fix that deleted the backup too. The site is down, the users are gone, and yes — it was me. I did this.";
